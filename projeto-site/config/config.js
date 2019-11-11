@@ -8,10 +8,10 @@ module.exports = {
     storage: ":memory:"
   },
   production: {
-    username: 'adminbandtec',
-    password: 'b@ndtec2018',
-    database: 'gf2018',
-    host: 'testexyzwtrtwr.database.windows.net',
+    username: 'usercoold',
+    password: '#Gfgrupo8',
+    database: 'bdcoold',
+    host: 'srvgrupocoold.database.windows.net',
     dialect: 'mssql',
     xuse_env_variable: 'DATABASE_URL',
     dialectOptions: {
